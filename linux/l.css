@@ -1,0 +1,111 @@
+html,body{scrollbar-base-color:#772953;}
+html,body::webkit-scrollbar{
+width:7px;
+background-color:#772953;
+}
+body
+{
+margin-left:100;
+top:20%;
+font-family: Arial, sans-serif;
+color:#772953;
+}
+a{color:#772953}
+a:visited{color:orange}
+.top
+{
+position:fixed;
+font-size:800%;
+text-align:center;
+background:red;
+padding:5x;
+width:100%;
+left:0%;
+z-index:5;
+}
+.top div{background:red;}
+.content
+{
+position:absolute;
+top:200px;
+left:100px;
+right:5%;
+}
+.item{border:5px solid #772953}
+.menu
+{
+position:absolute;
+top:200px;
+left:0%;
+background:#772953;
+}
+.menu a{
+color:white;
+text-decoration:none;
+}
+.menu a:visited{
+color:orange;
+text-decoration:none;
+}
+.menu-button{
+position: relative;
+width: 100px;
+height: 50px;
+overflow: visible;
+background: #772953;
+margin-top:15px;
+text-align:center-left;
+border:green;
+}
+.menu-button a{
+width: 100px;
+height: 50px;
+display: block;
+outline:none;
+}
+.menu-button-hidden{
+position: relative;
+top:-65px;
+left: -100%;
+width: 100px;
+height: 35px;
+background: #772953;
+text-align:center-left;
+padding:15px;
+z-index:-5;
+}
+.menu-button:hover .menu-button-hidden{
+	top:-65px;
+left: 100%;
+z-index:0;
+}
+.smm
+{
+position:fixed;
+top:200px;
+right:0;
+overflow: hidden;
+}
+.bottom
+{
+position:fixed;
+right:0;
+bottom:0;
+text-align:right;
+}
+.logo
+{
+float:left;
+width:100px;
+height:100px;
+}
+h1
+{
+margin-left:100;
+font-size:20;
+float:none;
+}
+li
+{
+margin-left:100;
+}
