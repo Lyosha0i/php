@@ -3,10 +3,39 @@
 <link rel="stylesheet" href="l.css">
 </head>
 <body>
-<div class="top">Linux</div>
+<div class="top">Linux
+<div class="fun_red"id="fun_red">
+<div class="fun_red"id="fun_orange">
+</div>
+<div class="fun_red"id="fun_yellow">
+</div>
+<div class="fun_red"id="fun_lime">
+</div>
+<div class="fun_red"id="fun_dsb">
+</div>
+<div class="fun_red"id="fun_blue">
+</div>
+<div class="fun_red"id="fun_bv">
+</div>
+</div>
+<div class="fun_red"id="fun_red2">
+<div class="fun_red"id="fun_orange">
+</div>
+<div class="fun_red"id="fun_yellow">
+</div>
+<div class="fun_red"id="fun_lime">
+</div>
+<div class="fun_red"id="fun_dsb">
+</div>
+<div class="fun_red"id="fun_blue">
+</div>
+<div class="fun_red"id="fun_bv">
+</div>
+</div>
+</div>
 <div class="content">
 <p>Welcome!</p>
-<p>Дата обновления: 27.08.2023</p>
+<p>Дата обновления: 11.10.2023</p>
 <?php
 require_once 'connection.php'; // подключаем скрипт
 $link = mysqli_connect($controlhost, $controluser, $controlpass, "l") or die("Ошибка " . mysqli_error($link)); 
