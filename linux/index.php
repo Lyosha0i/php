@@ -35,7 +35,7 @@
 </div>
 <div class="content">
 <p>Welcome!</p>
-<p>Дата обновления: 11.10.2023</p>
+<p>Дата обновления: 02.02.2024</p>
 <?php
 require_once 'connection.php'; // подключаем скрипт
 $link = mysqli_connect($controlhost, $controluser, $controlpass, "l") or die("Ошибка " . mysqli_error($link)); 
@@ -53,6 +53,195 @@ echo"</ul>";
 mysqli_free_result($result);
 mysqli_close($link);
 ?>
+<p><img class="logo" src="ubuntu.png"></p>
+<h1>Ubuntu</h1>
+<ul>
+<li>Первый выпуск: 2004</li>
+<li>Последняя версия: 23.04</li>
+<li>Сайт: <a href="https://ubuntu.com">ubuntu.com</a></li>
+</ul>
+<p><img class="logo" src="ubuntu.png"></p>
+<h1>Ubuntu</h1>
+<ul>
+<li>Первый выпуск: 2004</li>
+<li>Последняя версия: 23.04</li>
+<li>Сайт: <a href="https://ubuntu.com">ubuntu.com</a></li>
+</ul>
+<p><img class="logo" src="ubuntu.png"></p>
+<h1>Ubuntu</h1>
+<ul>
+<li>Первый выпуск: 2004</li>
+<li>Последняя версия: 23.04</li>
+<li>Сайт: <a href="https://ubuntu.com">ubuntu.com</a></li>
+</ul>
+<p><img class="logo" src="ubuntu.png"></p>
+<h1>Ubuntu</h1>
+<ul>
+<li>Первый выпуск: 2004</li>
+<li>Последняя версия: 23.04</li>
+<li>Сайт: <a href="https://ubuntu.com">ubuntu.com</a></li>
+</ul>
+<p><img class="logo" src="ubuntu.png"></p>
+<h1>Ubuntu</h1>
+<ul>
+<li>Первый выпуск: 2004</li>
+<li>Последняя версия: 23.04</li>
+<li>Сайт: <a href="https://ubuntu.com">ubuntu.com</a></li>
+</ul>
+<p><img class="logo" src="ubuntu.png"></p>
+<h1>Ubuntu</h1>
+<ul>
+<li>Первый выпуск: 2004</li>
+<li>Последняя версия: 23.04</li>
+<li>Сайт: <a href="https://ubuntu.com">ubuntu.com</a></li>
+</ul>
+<p><img class="logo" src="ubuntu.png"></p>
+<h1>Ubuntu</h1>
+<ul>
+<li>Первый выпуск: 2004</li>
+<li>Последняя версия: 23.04</li>
+<li>Сайт: <a href="https://ubuntu.com">ubuntu.com</a></li>
+</ul>
+<p><img class="logo" src="ubuntu.png"></p>
+<h1>Ubuntu</h1>
+<ul>
+<li>Первый выпуск: 2004</li>
+<li>Последняя версия: 23.04</li>
+<li>Сайт: <a href="https://ubuntu.com">ubuntu.com</a></li>
+</ul>
+<p><img class="logo" src="ubuntu.png"></p>
+<h1>Ubuntu</h1>
+<ul>
+<li>Первый выпуск: 2004</li>
+<li>Последняя версия: 23.04</li>
+<li>Сайт: <a href="https://ubuntu.com">ubuntu.com</a></li>
+</ul>
+<p><img class="logo" src="ubuntu.png"></p>
+<h1>Ubuntu</h1>
+<ul>
+<li>Первый выпуск: 2004</li>
+<li>Последняя версия: 23.04</li>
+<li>Сайт: <a href="https://ubuntu.com">ubuntu.com</a></li>
+</ul>
+<p><img class="logo" src="ubuntu.png"></p>
+<h1>Ubuntu</h1>
+<ul>
+<li>Первый выпуск: 2004</li>
+<li>Последняя версия: 23.04</li>
+<li>Сайт: <a href="https://ubuntu.com">ubuntu.com</a></li>
+</ul>
+<p><img class="logo" src="ubuntu.png"></p>
+<h1>Ubuntu</h1>
+<ul>
+<li>Первый выпуск: 2004</li>
+<li>Последняя версия: 23.04</li>
+<li>Сайт: <a href="https://ubuntu.com">ubuntu.com</a></li>
+</ul>
+<p><img class="logo" src="ubuntu.png"></p>
+<h1>Ubuntu</h1>
+<ul>
+<li>Первый выпуск: 2004</li>
+<li>Последняя версия: 23.04</li>
+<li>Сайт: <a href="https://ubuntu.com">ubuntu.com</a></li>
+</ul>
+<p><img class="logo" src="ubuntu.png"></p>
+<h1>Ubuntu</h1>
+<ul>
+<li>Первый выпуск: 2004</li>
+<li>Последняя версия: 23.04</li>
+<li>Сайт: <a href="https://ubuntu.com">ubuntu.com</a></li>
+</ul>
+<p><img class="logo" src="ubuntu.png"></p>
+<h1>Ubuntu</h1>
+<ul>
+<li>Первый выпуск: 2004</li>
+<li>Последняя версия: 23.04</li>
+<li>Сайт: <a href="https://ubuntu.com">ubuntu.com</a></li>
+</ul>
+<p><img class="logo" src="ubuntu.png"></p>
+<h1>Ubuntu</h1>
+<ul>
+<li>Первый выпуск: 2004</li>
+<li>Последняя версия: 23.04</li>
+<li>Сайт: <a href="https://ubuntu.com">ubuntu.com</a></li>
+</ul>
+<p><img class="logo" src="ubuntu.png"></p>
+<h1>Ubuntu</h1>
+<ul>
+<li>Первый выпуск: 2004</li>
+<li>Последняя версия: 23.04</li>
+<li>Сайт: <a href="https://ubuntu.com">ubuntu.com</a></li>
+</ul>
+<p><img class="logo" src="ubuntu.png"></p>
+<h1>Ubuntu</h1>
+<ul>
+<li>Первый выпуск: 2004</li>
+<li>Последняя версия: 23.04</li>
+<li>Сайт: <a href="https://ubuntu.com">ubuntu.com</a></li>
+</ul>
+<p><img class="logo" src="ubuntu.png"></p>
+<h1>Ubuntu</h1>
+<ul>
+<li>Первый выпуск: 2004</li>
+<li>Последняя версия: 23.04</li>
+<li>Сайт: <a href="https://ubuntu.com">ubuntu.com</a></li>
+</ul>
+<p><img class="logo" src="ubuntu.png"></p>
+<h1>Ubuntu</h1>
+<ul>
+<li>Первый выпуск: 2004</li>
+<li>Последняя версия: 23.04</li>
+<li>Сайт: <a href="https://ubuntu.com">ubuntu.com</a></li>
+</ul>
+<p><img class="logo" src="ubuntu.png"></p>
+<h1>Ubuntu</h1>
+<ul>
+<li>Первый выпуск: 2004</li>
+<li>Последняя версия: 23.04</li>
+<li>Сайт: <a href="https://ubuntu.com">ubuntu.com</a></li>
+</ul>
+<p><img class="logo" src="ubuntu.png"></p>
+<h1>Ubuntu</h1>
+<ul>
+<li>Первый выпуск: 2004</li>
+<li>Последняя версия: 23.04</li>
+<li>Сайт: <a href="https://ubuntu.com">ubuntu.com</a></li>
+</ul>
+<p><img class="logo" src="ubuntu.png"></p>
+<h1>Ubuntu</h1>
+<ul>
+<li>Первый выпуск: 2004</li>
+<li>Последняя версия: 23.04</li>
+<li>Сайт: <a href="https://ubuntu.com">ubuntu.com</a></li>
+</ul>
+<p><img class="logo" src="ubuntu.png"></p>
+<h1>Ubuntu</h1>
+<ul>
+<li>Первый выпуск: 2004</li>
+<li>Последняя версия: 23.04</li>
+<li>Сайт: <a href="https://ubuntu.com">ubuntu.com</a></li>
+</ul>
+<p><img class="logo" src="ubuntu.png"></p>
+<h1>Ubuntu</h1>
+<ul>
+<li>Первый выпуск: 2004</li>
+<li>Последняя версия: 23.04</li>
+<li>Сайт: <a href="https://ubuntu.com">ubuntu.com</a></li>
+</ul>
+<p><img class="logo" src="ubuntu.png"></p>
+<h1>Ubuntu</h1>
+<ul>
+<li>Первый выпуск: 2004</li>
+<li>Последняя версия: 23.04</li>
+<li>Сайт: <a href="https://ubuntu.com">ubuntu.com</a></li>
+</ul>
+<p><img class="logo" src="ubuntu.png"></p>
+<h1>Ubuntu</h1>
+<ul>
+<li>Первый выпуск: 2004</li>
+<li>Последняя версия: 23.04</li>
+<li>Сайт: <a href="https://ubuntu.com">ubuntu.com</a></li>
+</ul>
 <p><img class="logo" src="ubuntu.png"></p>
 <h1>Ubuntu</h1>
 <ul>
